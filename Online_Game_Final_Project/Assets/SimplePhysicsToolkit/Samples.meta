@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 48e786e34c157a74d8211af1a69be696
+=======
+guid: 74824041365812b498ad36956fc50d31
+>>>>>>> a99a38a9f76315806ca3a044ca97e218a5fa263a
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
